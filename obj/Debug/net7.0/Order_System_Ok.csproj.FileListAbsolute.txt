@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\bin\Debug\net7.0\Order_System_Ok.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\bin\Debug\net7.0\Order_System_Ok.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\bin\Debug\net7.0\Order_System_Ok.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\bin\Debug\net7.0\Order_System_Ok.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\bin\Debug\net7.0\Order_System_Ok.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\refint\Order_System_Ok.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\Order_System_Ok.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Order_System_Ok\obj\Debug\net7.0\ref\Order_System_Ok.dll
