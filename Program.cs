@@ -19,8 +19,8 @@ internal class Program
         Console.Write("Status: ");
         OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
-        Client client = new Client();
-        Order order = new Order();
+        Client client = new Client(clientname, emailclient,birthdate);
+        Order order = new Order(DateTime.Now, status, client);
 
         Console.WriteLine();
         Console.Write("How many items to this order? ");
